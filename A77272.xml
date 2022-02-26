@@ -1,0 +1,1562 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Country dances being a composition entirely new; and the whole cast different from all that have yet been publish'd; with bass and treble to each dance. Also, the newest French dances in use, entryes, genteel and grotesque, chacons, rigodoons, minuets, and other dancing tunes. By Thomas Bray.</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 94 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77272</idno>
+            <idno type="STC">Wing B4291B</idno>
+            <idno type="STC">ESTC R229343</idno>
+            <idno type="EEBO-CITATION">99897874</idno>
+            <idno type="PROQUEST">99897874</idno>
+            <idno type="VID">170931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2525:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Country dances being a composition entirely new; and the whole cast different from all that have yet been publish'd; with bass and treble to each dance. Also, the newest French dances in use, entryes, genteel and grotesque, chacons, rigodoons, minuets, and other dancing tunes. By Thomas Bray.</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+               </titleStmt>
+               <extent>[4], 1 p., 19 leaves, [1], 51 [i.e. 49] p., : music  </extent>
+               <publicationStmt>
+                  <publisher>printed by William Pearson next door to the Hare and Feathers in Alders-gate-street, for the author; and sold by Mr. Playford, at the Temple-Change-Fleetstreet, Mr: Crouch in Princes-street near Convent-garden, Mr. Couthbutt in Russel-street near Convent-garden. And all other musick shops,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 48 and 49 misnumbered 50 and 51.</note>
+                  <note>In the 19 leaves section, verso of leaves are numbered separately; for example, the verso of leaf 1 is numbered 2; however, the recto of leaf 2 is also numbered 2, while the verso of leaf 2 is numbered 3.</note>
+                  <note>Identified as Wing B4291B, reel 2525, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Cf. Wing B4291B which is dated 1700 and Wing B4291A which has in imprint: for, and sold by, James Young.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Country-dances --  Early works to 1800.</term>
+               <term>Dance music --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170931:1" rendition="simple:additions"/>
+            <p>
+               <hi>Country Dances:</hi> BEING A Compoſition Entirely NEW; AND The whole Caſt Different from all that have yet been Publiſh'd; with Baſs and Treble to each Dance.</p>
+            <p>ALSO, The Neweſt <hi>French</hi> Dances in uſe, <hi>Entryes, Genteel</hi> and <hi>Groteſque, Chacons, Rigodoons, Minuets,</hi> and other Dancing Tunes.</p>
+            <p>By <hi>Thomas Bray.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>William Pearſon</hi> next Door to the <hi>Hare</hi> and <hi>Feathers</hi> in <hi>Alders-gate-ſtreet,</hi> for the Author; and Sold by Mr. <hi>Playford,</hi> at the <hi>Temple-Change-Fleetſtreet,</hi> Mr: <hi>Crouch</hi> in <hi>Princes-ſtreet</hi> near <hi>Convent-garden,</hi> Mr. <hi>Couthbutt</hi> in <hi>Ruſſel-ſtreet</hi> near <hi>Convent-garden.</hi> And all other Muſick Shops. 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170931:2"/>
+            <head>TO His Highneſs the DUKE OF GLOUCESTER.</head>
+            <opener>
+               <salute>May it pleaſe Your Highneſs,</salute>
+            </opener>
+            <p>THE unſpeakable Honour which your Highneſs is pleaſed to beſtow up<g ref="char:EOLhyphen"/>on this Trifle, is ſuch, that a Pen more powerfull than I can pretend to, is not in any meaſure able to expreſs it; But as your Highneſs has been pleas'd to Illuſtrate it by your <hi>Patronage,</hi> I have no reaſon to doubt, Sir, Your Pardon for the Authors preſumption, in aſpiring to ſuch a Heighth, as Dedicating a work ſo worthleſs in it ſelf, that it has nothing but
+<pb facs="tcp:170931:3"/> Your Highneſſes Eſpouſal to Recommend it; And as it is Honour'd with ſo Glo<g ref="char:EOLhyphen"/>rious, and Youthfull a Champion, to fight its Cauſe, I need not diſpute, but may with confidence aſſure my ſelf of its Succeſs and reception; For tho' it may want Beauties to Inſinuate its ſelf into the favour of ſome, yet the Nobleneſs of the <hi>Patron</hi> will aſſuredly plead for its Defects, and make it paſſable to all. And ſince Your Highneſs has been pleas'd to <hi>Patronize</hi> this, I dare not queſtion, but Your Highneſs will alſo give the unworthy Author the liberty of Subſcribing him<g ref="char:EOLhyphen"/>ſelf,</p>
+            <closer>
+               <signed>
+                  <hi>Your Highneſſes moſt Dutifully Obedient, and devoted Servant,</hi> Tho. Bray.</signed>
+            </closer>
+         </div>
+         <div type="key">
+            <pb facs="tcp:170931:4"/>
+            <head>A <hi>TABLE</hi> to Explain the Characters made uſe of in this Book.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>S.</cell>
+                     <cell>Stands for <hi>Single.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wo.</cell>
+                     <cell>Stands for <hi>Woman.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wo.</cell>
+                     <cell>Stands for <hi>Women.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Cu.</cell>
+                     <cell>Stands for <hi>Couple.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1ſt.</cell>
+                     <cell>Stands for <hi>Firſt.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2d.</cell>
+                     <cell>Stands for <hi>Second.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Proper.</cell>
+                     <cell>Is when the <hi>Men</hi> and <hi>Women</hi> are on their own ſides.</cell>
+                  </row>
+                  <row>
+                     <cell>Improper.</cell>
+                     <cell>Is when the <hi>Men</hi> are on the <hi>Woman</hi>'s ſide, or the <hi>Women</hi> on the <hi>Men</hi>'s ſide.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:dnc-repeat"> .̲̲ </g>
+                     </cell>
+                     <cell>This for a <hi>Strain</hi> of the <hi>Tune</hi> played once over.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:dnc-repeat2"> :̲̲ </g>
+                     </cell>
+                     <cell>This for a <hi>Strain</hi> twice over.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <head>To the <hi>READER.</hi>
+            </head>
+            <p>AS the Author has made this Compoſition of Dances Entirely New, ſo he has endeavour'd to make them as eaſie as poſſible, to evary ingenious Reader, but if any Gentleman or Lady finds any difficulty in the performance of any of them, he ſhall be ready, when ever commanded, to wait upon them with his Inſtructions.</p>
+            <p>
+               <hi>The Reader is deſir'd to Correct one miſtake in the Dance of the</hi> Parſons Cap, Viz <hi>in Page 8. Line the ſecond, for</hi> [his Wo.] <hi>Read</hi> [her Man.]</p>
+         </div>
+      </front>
+      <body>
+         <div type="song_and_dance">
+            <pb n="1" facs="tcp:170931:5"/>
+            <div type="song">
+               <div type="part">
+                  <head>Round O. Treb.</head>
+                  <byline>
+                     <hi>Tune by Mr.</hi> J. Lenton, <hi>the Dance by</hi> Tho. Bray.</byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Firſt Strain again.</p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="1" facs="tcp:170931:6"/>
+               <head>The <hi>Glouceſter,</hi> a New Country Dance in three Parts.</head>
+               <div type="part">
+                  <head>The Firſt Man begins Improper only in the Firſt Part.</head>
+                  <p>THe firſt couple turns the ſecond couple a whole turn and a quarter, with the right Hands, till they come all on a row croſs the Room; the firſt couple with their Faces down, the ſecond couple with theirs up; then all caſt off to the left Hand, the firſt couple till they come below, the ſecond cou<g ref="char:EOLhyphen"/>ple till they come above; and ſo to the end changing with your Woman when you come to the bottom.</p>
+               </div>
+               <div type="part">
+                  <head>The ſecond Part.</head>
+                  <p>Each Man changing with his own, with the right Hand, 1ſt. Wo. and 2.d Man turn to the right Hand, and move two or three ſteps to the wall, the other cu. following them at the ſame time, the 1ſt. Wo. caſt off, the Man following her till they come below, the 2d. Man caſt up his Wo. following him, till they come into the 1ſt. cu. place above as at firſt, and ſo to the end.</p>
+               </div>
+               <div type="part">
+                  <head>The third Part.</head>
+                  <p>Firſt Man put his Wo. from him with both Hands into the 2d. cu. place, 2d. Man pull his Wo. to him with both Hands at the ſame time into the 1ſt. cu. place, then the 2d. Man take Hands with both We. and go quite round to the left Hand, the 1ſt. Man goes quite round at the ſame time, on the outſide of them, with his left Hand to them, 1ſt. cu. ends below, 2d. cu. above, and ſo to the end.</p>
+               </div>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="2" facs="tcp:170931:7"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="2" facs="tcp:170931:8"/>
+               <head>The Duke of <hi>Glouceſter</hi>'s March, a New Country Dance.</head>
+               <p>THe Firſt Man and ſecond Woman turn to their right Hand and move to the wall two or three ſteps, and cloſe their feet; 1ſt. Wo. and 2d. Man each follow their own Partner at the ſame time, and cloſe their feet; then 1ſt. Wo. and 2d. Man turn both to the left Hand round and meet in the middle of the room with their backs to each other, the 1ſt. Man turns down to the left Hand, and takes his Wo. by both Hands, the 2d. Wo. turns up to the left Hand at the ſame time, and takes her Man by both Hands, then the 1ſt. Man puts his Wo. back, and the 2d. Wo. puts her Man back, 1ſt. cu. below, 2d. cu. above, then each Man changing with his own <g ref="char:dnc-repeat"> .̲̲ </g> The ſame thing again <g ref="char:dnc-repeat2"> :̲̲ </g> Firſt Wo. caſts off to the 2d. Man's place, and 2d. Man caſts up to the 1ſt. Wo. place, the other cu. following their Partners, at the ſame time to each others place, the ſame thing back again, only the 1ſt. Man caſt up into his own place as at firſt, the 2d. Wo. caſting down at the ſame time, the other cu. following them to their own places as at firſt <g ref="char:dnc-repeat"> .̲̲ </g> The 1ſt. Man and Wo. meet in the middle of the Room, the Man behind the Wo. and cloſe their feet, the 2d. cu. do the ſame after them, 1ſt. cu. lead up and caſt off, 2d. cu. lead up at the ſame time, and turn ſingle from cach other <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="3" facs="tcp:170931:9"/>
+            <div type="song">
+               <div type="part">
+                  <head>
+                     <hi>Rigodoon.</hi> Treb.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Rigodoon.</hi> Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="3" facs="tcp:170931:10"/>
+               <head>
+                  <hi>A New Country Dance, call'd St.</hi> James's-<hi>Houſe.</hi>
+               </head>
+               <head type="sub"> The firſt Man begins Improper in the firſt Part only,</head>
+               <p>THe firſt cu. ſlip out from each other, two or three ſteps and cloſe their feet with their Faces up, the 2d. cu. ſlip in at the ſame time, and cloſe their feet, with their Faces down; then the 1ſt. cu. in, and the 2d. cu. out as before, 1ſt. cu. caſt off to the 2d. cu. place, the 2d. cu. leads up the middle at the ſame time, and turn ſingle from each other. The 1ſt. Man, and 2d. Man meet betwixt their We. and cloſe their feet and clap both their Hands againſt each other, then each Man go round the contrary Wo. on the inſide to the ſame places again. Then the We. do the ſame after them, only going round the Men. to the left Hand, as the Men did to the right, and ſo to the end, changing places with your Wo. at the bottom. <hi>Second paſſage thus,</hi>
+               </p>
+               <p>All four Right and Left three times, each Man begining with his Wo. firſt the ſame thing back again, beginning with the left Hand, firſt all four meet in the middle of the Room longways all on a Row, the Men with their right Shoulders to the We. then both Men caſt off to the left Hand quick below the We. with their left ſhoulders to each other, then the We. caſt off after them to the right Hand till they come with their right Shoulders to their Men as they were before, then each Man turn his Wo. three quarters round with their right Hand, 1ſt. cu. lead up and caſt off, 2d. cu. lead up the middle and turn ſingle, and ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="4" facs="tcp:170931:11"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="4" facs="tcp:170931:12"/>
+               <head>Lincolns-Inn Garden, <hi>A New Country Dance.</hi>
+               </head>
+               <head type="sub">Firſt Man begins Improper.</head>
+               <p>THe firſt Man put the ſecond Wo. from him with both Hands, firſt Wo. pull the 2d. Man to her at the ſame time, till they come all on a Row longways, the Men in the middle with their backs to each other, then Men turn both to the right Hand, to each others place as at firſt. We. caſt to the left Hand to their own places as at firſt <g ref="char:dnc-repeat"> .̲̲ </g> The ſame again, only the We. muſt be with their backs to each other in the middle of the Room, and turn to each others place to the left Hand, Men to the right, to their own places again <g ref="char:dnc-repeat2"> :̲̲ </g> All lead in and turn ſingle, all lead out and turn ſingle, firſt cu. lead up the middle and turn ſingle, 2d. cu caſt off at the ſame time, then all four meet in the middle of the Room longways, Men uppermoſt with their faces down, We. with theirs up, and all Foot it <g ref="char:dnc-repeat"> .̲̲ </g> Firſt Man ſlip out to the left Hand, and in again behind his Wo. ſecond Man do the ſame to the right Hand, at the ſame time, We. the ſame after them, firſt Man turn his Wo. a Quarter with both Hands to the left, ſecond Man the ſame to the right at the ſame time; then all lead up, then 1ſt. cu. lead down the middle, 2d. cu. caſt up <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="5" facs="tcp:170931:13"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="5" facs="tcp:170931:14"/>
+               </div>
+            </div>
+            <div type="dance">
+               <head>The Spring, a New Country Dance.</head>
+               <p>THe firſt and ſecond Man move up two or three ſteps, and turn back to the left to their own places again; We. move down at the ſame time, and do the ſame <g ref="char:dnc-repeat"> .̲̲ </g> Each Man changing places with his Wo. with the right Hand, Men with their Faces down, We. with theirs up, then all turn ſingle to the left Hand from each other, to each others place; Men being Improper <g ref="char:dnc-repeat2"> :̲̲ </g> Firſt Man and ſecond Wo. goes half round their own Partners on the outſide, and turn right Hands round, the firſt Man ends below, the ſecond Wo. above <g ref="char:dnc-repeat"> .̲̲ </g> The firſt Wo. and ſecond Man do the ſame after them <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="6" facs="tcp:170931:15"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="6" facs="tcp:170931:16"/>
+               <head>The Woman's the Man, a New Country Dance.</head>
+               <head type="sub">
+                  <hi>The Women begin all Improper.</hi>
+               </head>
+               <p>THe 1ſt. and 2d. Wo. take both hands and ſlip to the Wall and foot it twice and cloſe their feet, and turn-ſingle three quarters round, and beckon their Men; then all four meet in the middle of the Room longways, and foot it as before, the We. uppermoſt, then We. place their Mens Hands a croſs before them, and preſently afterward make them hold up their Heads, by puting their Hands under their Chins <g ref="char:dnc-repeat"> .̲̲ </g> Men ſtand ſtill while the We. Dance round them, on the right ſide of them to their own place again, and foot it twice, and cloſe their feet, then take their Men by both Hands, and ſett them by their ſides, then after ſett their own by their ſides, then ſlip out from each other, the We. to their proper places as at firſt, the Men to theirs and all turn to the right Hand, and foot it as before <g ref="char:dnc-repeat2"> :̲̲ </g> We. move up two or three ſteps, and turn S. to the left Hand, Men move down two or three ſteps and do the ſame, then We. do the ſame thing down the Room and turn to the right Hand, Men move up and do the ſame at the ſame time, 1ſt. Wo. and Man meet in the middle of the Room, and turn to the right Hand with their backs to each other, the Womans Face up, the Mans Face down, and foot it as before, then move out to your own places again, and turn to the left Hand, and foot it as before; the 2d. cu. moving in and turning their backs to each other at the ſame time as the 1ſt. cu. moves out and foot it <g ref="char:dnc-repeat"> .̲̲ </g> 1ſt. Man and Wo. meets betwixt the other cu. the 2d. Wo. moving up, and 2d. Man down at the ſame time, and all foot it as before, then 1ſt. cu. croſs over, 2d. cu. meet at the ſame time and ſtand all four on a Row broadways of the Room, and foot it, all lead up and fall back, 1ſt. cu. caſt off and croſs over, 2d. cu. lead up and turn S. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> So to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="7" facs="tcp:170931:17"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="7" facs="tcp:170931:18"/>
+               <head>
+                  <hi>Roſamonds Pond,</hi> a New Country Dance.</head>
+               <p>THe 1ſt. Man take Hands with the 2d. Wo. and left Hands a croſs and turn S. both to the right Hand to their own places again; the 1ſt. Wo. and 2d. Man go half round, to each others place at the ſame time, then the 1ſt. Wo. and 2d. Man take right hands, and left Hands a croſs, and turn <hi>S.</hi> to the right Hand to the ſame place again, and the 1ſt. Man and 2. Wo. go half round at the ſame time <g ref="char:dnc-repeat"> .̲̲ </g> Then the ſame thing again till they all come to their proper place as at firſt <g ref="char:dnc-repeat2"> :̲̲ </g> The 1ſt. Man and 2d. Wo. change places with both Hands, and turn S. to the right Hand, to each others place, the 1ſt. Wo. and 2d. Man do the ſame after them <g ref="char:dnc-repeat"> .̲̲ </g> 1ſt. Man take his Wo. by both Hands, and put her from him, till they come above, 2d. Man take his Wo. by both Hands at the ſame time, and pull her to him till they come below, then the 1ſt. cu. croſs over and meet below; the 2d. cu. croſs up the middle and meet above <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="8" facs="tcp:170931:19"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="8" facs="tcp:170931:20" rendition="simple:additions"/>
+               <head>The <hi>Parſon</hi>'s <hi>Cap,</hi> a New Country Dance.</head>
+               <head type="sub">
+                  <hi>The firſt part twice, the laſt once.</hi>
+               </head>
+               <p>THe 1ſt. Man caſt off to the 2d. Womans place, his Wo. following him to the 2d. Mans place; the 2d. Wo. caſt off to the 1ſt. Mans, place, at the ſame time, his Wo. following him half round, then each Man turn his Wo. round with the right Hand <g ref="char:dnc-repeat"> .̲̲ </g> The ſame thing back again <g ref="char:dnc-repeat2"> :̲̲ </g> Men and We <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> croſs over with their leſt Shoulders to each other, and turn back again to the left Hand, and meet in the mid<g ref="char:EOLhyphen"/>dle of the Room, with their right Shoulders to each other, and ſtand longways of the Room, then each turn his own a whole turn and a quarter, till they come as at firſt; then 1ſt. Man, and 2d. Wo. turn to the right Hand and move to the wall and turn half round, 1ſt. Wo. and 2d. Man follow their Partners, then 1ſt. Wo. and 2d. Man turn to their left Hands round, and Sett their backs to each other, their Partners following them; the 1ſt. Man pull his Wo. to him, and put her below; the 2d. Man puts his Wo. from him, and puls her to him above <g ref="char:dnc-repeat2"> :̲̲ </g> So to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="9" facs="tcp:170931:21"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="9" facs="tcp:170931:22"/>
+               <head>The <hi>Wives Victory,</hi> a New Country Dance.</head>
+               <p>THe 1ſt. Man take his Wo. by both Hands, and pull her to him, and put her from him in the mid<g ref="char:EOLhyphen"/>dle of the Room; the 2d. Man puts his Wo. from him at the ſame time, and pulls her to him, till he comes into the middle of the Room, with his right ſhoulder to the 1ſt. Wo. then the 2d. Man and 1ſt. Wo. change places with the right Hand, the 1ſt. Wo. turns to her left hand into her Mans place, as at firſt; the 1ſt. Man and 2d. Wo. go half round at the ſame time, to their own Partners place as at firſt <g ref="char:dnc-repeat"> .̲̲ </g> The ſame again, only the 1ſt. Man and 2d. Wo. muſt be with their right Shoulders to each other in the middle of the Room, and change places with the right Hand, and both turn to the left Hand to their pro<g ref="char:EOLhyphen"/>per places as at firſt, and the 1ſt. Wo. and 2d. Man go half round, at the ſame time to their places as at firſt <g ref="char:dnc-repeat2"> :̲̲ </g> Then both the Men change places with their We. with the right Hand, and back again with the left; 1ſt. Man croſs over with the 2d. Wo. the other cu. do the ſame after them <g ref="char:dnc-repeat"> .̲̲ </g> All four Hands half round to the left Hand, and all turn <hi>S.</hi> then all four Hands half round to the left Hand again, and each Man change places with his own <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="10" facs="tcp:170931:23"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="10" facs="tcp:170931:24"/>
+               <head>
+                  <hi>Gleamham-Hall,</hi> a New Country Dance.</head>
+               <p>THe 1ſt. Man and 2d. VVo. go round their own Partners on the outſide to each others place, and meet in the middle of the Room, then caſt back again to the left Hand to their own places, as at firſt <g ref="char:dnc-repeat"> .̲̲ </g> The 1ſt. VVo. and 2d. Man the ſame after them, only they muſt caſt back to their right Hand <g ref="char:dnc-repeat2"> :̲̲ </g> The 1ſt. cu. croſs over and meet below, the 2. cu. and leads up the middle, the 1ſt. Man turn to the right Hand above the 2d. VVo. and take her by the right Hand, the 1ſt. VVo. doing the ſame at the ſame time, only turning to the left Hand, and take left Hands with the 2d. Man, then all four ſlip up the Room two or three ſteps and cloſe their feet and all turn ſingle, quite round, 1ſt. cu. move out, 2. cu. in, then 1ſt. cu. in, and 2d. cu. out, 1ſt. cu. caſt off and croſs over below, 2d. cu. croſs over up the middle at the ſame time, and turn <hi>S.</hi> 
+                  <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="11" facs="tcp:170931:25"/>
+            <div type="song">
+               <div type="part">
+                  <head>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="11" facs="tcp:170931:26"/>
+               <head>Braye<hi>'s</hi> Magott, <hi>a New Country Dance.</hi>
+               </head>
+               <head type="sub">Firſt Strain twice, laſt but once.</head>
+               <p>THe 1ſt. Man goes on the outſide of his Wo. till he comes betwixt the 1ſt. and 2d. Wo. then take his Wo. by the left Hand, the 2d. Wo. by the right and fall back all on a row, and lead in to the mid<g ref="char:EOLhyphen"/>dle of the Room, 2d. Man fall back when they fall back, and meet them in the middle of the Room right againſt the 1ſt. Man <g ref="char:dnc-repeat"> .̲̲ </g> The 1ſt. Man goeth the Hay with both the We. till he comes to the ſame place again beginning on the inſide of his own Wo. Firſt the 2d. Man go round the other three at the ſame time, to the ſame place again with his left Hand to them <g ref="char:dnc-repeat2"> :̲̲ </g> Then the 2d. Man goes the Hay, begin<g ref="char:EOLhyphen"/>ning with his Wo. firſt, and the 1ſt. Man goes round with his left Hand to them, as before. <hi>This is half the laſt Strain.</hi> Then the 1ſt. Man takes his Wo. by both Hands and pulls her to him into the 2d. cu. place, as at firſt, 2d. Man pulls his Wo. to him at the ſame time, and puts her into the 1ſt. cu. place, as at firſt, then each Man turn his Wo. round with both hands. And ſo to the end.</p>
+               <pb n="11" facs="tcp:170931:27"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="12" facs="tcp:170931:28"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="12" facs="tcp:170931:29"/>
+               <head>
+                  <hi>A</hi> Conceal'd Health, <hi>a New Country Dance.</hi>
+               </head>
+               <head type="sub">Firſt Strain twice, laſt but once.</head>
+               <p>THe 1ſt. Man and 2d. Wo. croſs over to each others place, and turn both to the right Hand, and ſtand with their Faces out, the other cu. doing the ſame after them <g ref="char:dnc-repeat"> .̲̲ </g> Then all four go half round to their left Hands, and ſtand as at firſt, then Men and We. Right and left twice, each Man be<g ref="char:EOLhyphen"/>ginning with his own Wo. firſt <g ref="char:dnc-repeat2"> :̲̲ </g> Then all four Hands half round to the left Hand, and each Man change places with his own; the Men being improper, then Men clap their Womens right Hand, and left Hand, and both their Hands againſt Wemens, and all turn ſingle: <hi>This is half the laſt Strain.</hi> Then each Man turn his Wo. with the right Hand, three quarters round, and cloſe their Feet, ſtanding all on a row longways of the Room, with their right Shoulders to each other, the Men being uppermoſt, and make a little ſtop, and then turn the 1ſt. cu. down, the 2d. cu. up. And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="13" facs="tcp:170931:30"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="13" facs="tcp:170931:31"/>
+               <head>
+                  <hi>Short and ſweet,</hi> a New Country Dance.</head>
+               <p>THe Men and We. meet in the middle of the Room, with their right Shoulders to each other, the Men uppermoſt and ſtand all on a row longways the Room; then all turn to the left Hand, and ſtand as at firſt <g ref="char:dnc-repeat"> .̲̲ </g> The ſame on the other ſide, only turn back to the right hand <g ref="char:dnc-repeat2"> :̲̲ </g> Then 1ſt. Man change places with his Wo. with his right hand, and lead up and turn S. from each other, then 1ſt. Man turn the 2d. Wo. with the right hand three quarters round, till he come into the middle of the Room; the 1ſt. Wo. turns the 2d. Man at the ſame time with the left Hand till ſhe come into the middle of the Room, the 1ſt. cu. with their Faces up, the 2d. cu. with theirs down and ſtand all on a row croſs the Room <g ref="char:dnc-repeat"> .̲̲ </g> The 1ſt. Man go back to back with the 2d. Wo. the other cu. the ſame at the ſame time, then the 1ſt. cu. croſs over and meet below, the 2d. cu. meet and lead up the middle and turn S. <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="14" facs="tcp:170931:32"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="14" facs="tcp:170931:33"/>
+               <head>Bartlett-Houſe, <hi>a New Country Dance.</hi>
+               </head>
+               <head type="sub">Firſt Man begins Improper.</head>
+               <p>THe 1ſt. Man caſt off and turn up to the right Hand, to his own place, as at firſt, his Wo. follow<g ref="char:EOLhyphen"/>ing to the 2d. Wo. place, the 2d. Man caſts up at the ſame time, and down again to his own place, as at firſt, his Wo. following at the ſame time to the 1ſt. Wo. place, that is half round; then each Man lead his Wo. to the wall and back again <g ref="char:dnc-repeat"> .̲̲ </g> The ſame again, only the We. do what the Men did, and the Men do what the We. did <g ref="char:dnc-repeat2"> :̲̲ </g> Then right Hands, and left Hands twice, each Man beginning with his own Wo. firſt, then foot it twice and cloſe your Feet, the 1ſt. Man and 2d. Wo. ſtanding with their left Shoulders to each other longways the Room, the 1ſt. Wo. and 2d. Man the ſame; then each Man go back with the contrary Wo. to the ſame place again <g ref="char:dnc-repeat"> .̲̲ </g> Then all four caſt off to the right Hand half round, and then right Hands and left three times beginning with the contrary Wo. firſt <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="15" facs="tcp:170931:34"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="15" facs="tcp:170931:35"/>
+               <head>
+                  <hi>Granadiers Exerciſe,</hi> a New Country Dance.</head>
+               <p>THe 1ſt. Man and Wo. change places with the right Hand, and lead down betwixt the 2d. cu. and turn from each other, the 2d, cu. at the ſame time fall back, and caſt up half way, and meet the 1ſt. cu. with their Faces to each other all on a row, croſs the Room; then the 1ſt. Man pulls the 2d. Wo. to him below, the 1ſt. Wo. pulls the 2d. Man to her above, at the ſame time, then all turn S. <g ref="char:dnc-repeat"> .̲̲ </g> The ſame again, only the 2d. Man begins with the r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Wo. and the 1ſt. Man and 2d. Wo. fall back and caſt a little up as before, <g ref="char:dnc-repeat2"> :̲̲ </g> The 1ſt. Man caſt off and go round the 2d. Wo. on the inſide, his Wo. following him at the ſame time, and go round the 2d. Man on the inſide till they meet below the 2d. cu. and then croſs over with each other <g ref="char:dnc-repeat"> .̲̲ </g> Then 1ſt. Man croſs over with the 2d. Wo. 2d. Man with the 1ſt. Wo. after them; then 1ſt. Man and 2d. Wo. again, the other cu. the ſame <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="16" facs="tcp:170931:36"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="16" facs="tcp:170931:37"/>
+               <head>
+                  <hi>Love and a Bottle,</hi> a New Country Dance.</head>
+               <p>THe 1ſt. Man turn his Wo. with the right Hand half round, and both move to the 2d. Man and take Hands with him, and all three go round to the left Hand, till the 1ſt. Man comes to his own place as at firſt, 1ſt. Wo. and 2d. Man to each others places as at firſt, 2d. Wo. ſtands ſtill all this while <g ref="char:dnc-repeat"> .̲̲ </g> The ſame again only the We. change places with the right Hand, and go to the 2d. Man and take Hands and go round to the left Hand, each to his own place as at firſt, the 1ſt. Man ſtanding ſtill as they go round <g ref="char:dnc-repeat2"> :̲̲ </g> The 1ſt. Man turn the 2d. Wo. round with the right Hand, and fall back from her, the other cu. turn right Hand round as they fall back, then the 1ſt. and 2d. Wo. meet, and each Man turn his VVo. round with the left Hand, till they come all to their places as at firſt; Then Men Kiſs their VVemens Hands, and there VVe. make a ſign of Drinking immediately after, by lifting their left Hands, to their Mouths <g ref="char:dnc-repeat"> .̲̲ </g> The 1ſt. Man take his VVo. by the right Hand, and then by the left, and change places with her, the 2. cu. the ſame after them, 1ſt. cu. croſs over and meet below, the 2d. cu. lead up the middle and turn ſingle, then Kiſs the VVemens Hands as before <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="17" facs="tcp:170931:38"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="17" facs="tcp:170931:39"/>
+               <head>The <hi>Lovers Luck,</hi> a New Country Dance.</head>
+               <p>THe 1ſt. Man turn his Wo. with his right Hand, and fall betwixt the 2d. cu. with his Face to his Wo. and his Wo. fall from him at the ſame time; 1ſt. Man turn the 2d. Wo. with the left Hand, till he comes into the middle of the Room above, his Wo. turns the 2d. Man at the ſame time with the left Hand, till ſhe comes into the middle of the Room below, then 1ſt. Man and 1ſt. Wo. go round each other to the left Hand, till they come to their places as at firſt, and then caſt off <g ref="char:dnc-repeat"> .̲̲ </g> The 2d. cu. do the ſame after them <g ref="char:dnc-repeat2"> :̲̲ </g> Then 1ſt. cu. lead up, 2d. cu. lead down, and all turn S. then back again and turn S. then each Man turn his Wo. round with the right Hand, <g ref="char:dnc-repeat"> .̲̲ </g> 1ſt. The Wo. caſt off to the right Hand to the 2d. Mans place, the 2d. Man caſt up to the 1ſt. Womans place at the ſame time, the other cu. following their own Partners till they come all on a row, the 1ſt. Man and 2d. Wo. with their backs to each other, then all four turn to the left Hand, 1ſt. cu. down, 2d. cu. up, and each Man croſs over with his own <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="18" facs="tcp:170931:40"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="18" facs="tcp:170931:41"/>
+               <head>The <hi>Scotch Meaſure</hi> a New Country Dance.</head>
+               <p>THe 1ſt. Man and VVo. croſs over, and meet below the 2d. cu. and lead up all on a Row, 1ſt. Man turn the 2d. VVo. round by the right Hand, his VVo. doing the ſame with the 2d. Man, then turn your own with your left Hand into your own places as at firſt <g ref="char:dnc-repeat"> .̲̲ </g> The 2d. cu. do the ſame only lead down all on a Row as the 1ſt. cu. lead up <g ref="char:dnc-repeat2"> :̲̲ </g> All four Hands half round to the left Hand, 1ſt. Man and 2d. VVo. croſs over with each other; then Hands half round to the left Hand again; 1ſt. VVo. and 2d. Man croſs over with each other <g ref="char:dnc-repeat"> .̲̲ </g> The 1ſt. Man and 2d. VVo. Sett and fall back, then Men and VVe. Sett to each other and fall back, 1ſt. cu. croſs over up the middle, 2d. cu. caſt off at the ſame time, then 1ſt. cu. caſt off and 2d. cu. croſs over up the middle <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="19" facs="tcp:170931:42"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="19" facs="tcp:170931:43"/>
+               <head>
+                  <hi>Cupid</hi>'s <hi>Bridge,</hi> a New Country Dance.</head>
+               <p>THe 1ſt. Man and Wo. meet with their left ſhoulder to each other, and turn half round with their right ſhoulder to each other; the 2d. cu. doing the ſame after them, ſtanding all on a row longways the Room; then ſlip by each other, the 1ſt. Man and 2d. Wo. with their backs to each other, till they come to a ſquare and all foot it; then all turn to the left hand, the 1ſt. cu. below, the 2d. above, the Men improper <g ref="char:dnc-repeat"> .̲̲ </g> The ſame again <g ref="char:dnc-repeat2"> :̲̲ </g> The 1ſt. cu. croſs over and turn the 2d. cu. with the right hand, and ſlip by each other, holding right Hands as they paſs by into a ſquare, Men with their Faces up, We. down, Men paſs over before their We. and turn back to the right Hand to the ſame place again, coming back behind their we. <g ref="char:dnc-repeat"> .̲̲ </g> Then We. the ſame thing after them, only turning to the left Hand, and paſs back again behind the Men as before; then each Man turn his Wo. with his right Hand round, and all lead up and turn S. 1ſt. cu. below, 2d. cu. above <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end.</p>
+            </div>
+         </div>
+         <div type="song_and_dance">
+            <pb n="20" facs="tcp:170931:44"/>
+            <div type="song">
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="dance">
+               <pb n="20" facs="tcp:170931:45"/>
+               <head>
+                  <hi>A Minuet</hi> Country Dance, call'd the laſt of Twenty.</head>
+               <p>THe 1ſt. Man and Wo. croſs over with their backs to each other, in three Minuett ſteps to each others place, and turn to the left Hand with their Faces in, the 2d. cu. do the ſame at the ſame time, 1ſt. Man and 2d. Wo. chang places with the right Hand, and turn to the left in three Minuett ſteps, the 1ſt. Wo. and 2d. Man go half round at the ſame time, with their left Hand to the other cu. <g ref="char:dnc-repeat"> .̲̲ </g> The ſame again, only, the 1ſt. Wo. and 2d. Man change places with the right Hand, and the other cu. change places as before, <g ref="char:dnc-repeat2"> :̲̲ </g> The 1ſt. Man lead his Wo. up one Minuett ſtep, and five to the left Hand round, till he comes to the 2d. Womans place as at firſt; 2d. Wo. at the ſame time lead her Man one ſtep down, and five to the left Hand, to the 1ſt. Mans place as at firſt; 1ſt. Man and 2d. Wo. fall back into the middle of the Room with their backs to each other, and ſtand all on a row croſs the Room each with his Face to his Partner <g ref="char:dnc-repeat"> .̲̲ </g> 1ſt. Man and 2d. Wo. move three minuett ſteps to the left Hand, the Man up, the Wo. down, till they come on the outſide, the 1ſt. Wo. and 2d. Man at the ſame time croſs over and fall with their backs to each other as before, then each Man turn his Wo. with the right Hand, the 1ſt. cu. below, the 2d. cu. above <g ref="char:dnc-repeat2"> :̲̲ </g> And ſo to the end,</p>
+            </div>
+         </div>
+         <div type="music">
+            <pb n="1" facs="tcp:170931:46"/>
+            <div type="song">
+               <head>[1] The <hi>Glouceſter,</hi>
+               </head>
+               <byline>a <hi>French</hi> Dance compos'd by Mr. <hi>Jſaac.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="2" facs="tcp:170931:47"/>
+                  <head>Baſs. [1]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="3" facs="tcp:170931:48"/>
+               <head>[2] The <hi>Princes,</hi>
+               </head>
+               <byline>a <hi>French</hi> Dance, Compos'd by Mr. <hi>Iſaac.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="4" facs="tcp:170931:49"/>
+                  <head>Baſs. [2]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="5" facs="tcp:170931:50"/>
+               <head>[3] The <hi>Northumberland,</hi>
+               </head>
+               <byline>a <hi>French</hi> Dance, compos'd by Mr. <hi>Jſaac.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="6" facs="tcp:170931:51"/>
+                  <head>Baſs. [3]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Treble.</head>
+               <pb n="7" facs="tcp:170931:52"/>
+               <div type="song">
+                  <head>[4] Jigg.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[5] Minuet.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:170931:53"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[4] Jigg.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[5] Minuet.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="9" facs="tcp:170931:54"/>
+               <head>[6] Forlonna, a <hi>French</hi> Dance.</head>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="10" facs="tcp:170931:55"/>
+                  <head>Baſs. [6]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="11" facs="tcp:170931:56"/>
+               <head>[7] The <hi>Spaniſh</hi> Entry Tune, and Dance</head>
+               <byline>compos'd Mr. <hi>Joſias Preiſt.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="12" facs="tcp:170931:57"/>
+                  <head>Baſs. [7]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="13" facs="tcp:170931:58"/>
+               <head>[8]</head>
+               <byline> An Entry, the Dance, compos'd by Mr. <hi>Preiſt.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="14" facs="tcp:170931:59"/>
+                  <head>Baſs. [8]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="15" facs="tcp:170931:60"/>
+               <head>[9]</head>
+               <byline>An Entry by the late Mr. <hi>Hen. Purcell,</hi> the Dance, Compos'd by Mr. <hi>Tho. Bray.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="16" facs="tcp:170931:61"/>
+                  <head>Baſs. [9]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="17" facs="tcp:170931:62"/>
+               <head>[10]</head>
+               <byline>Tune by the late Mr. <hi>Henry Purcell,</hi> the Dance compos'd by <hi>Tho. Bray.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="18" facs="tcp:170931:63"/>
+                  <head>Baſs. [10]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="19" facs="tcp:170931:64"/>
+               <head>[11]</head>
+               <byline>An Antick Entry by Mr. <hi>Eccles,</hi> the Dance compos'd by <hi>Tho. Bray.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="20" facs="tcp:170931:65"/>
+                  <head>Baſs. [11]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:170931:66"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[12]</head>
+                  <byline>Tune by the late Mr. <hi>Henry Purcell,</hi> the Dance by <hi>Tho. Bray.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[13]</head>
+                  <byline>Tune by the late Mr. <hi>Henry Purcell,</hi> the Dance by <hi>Tho. Bray.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:170931:67"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[12]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[13]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="23" facs="tcp:170931:68"/>
+               <head>[14]</head>
+               <byline>An Entry by the late Mr. <hi>Hen. Purcell,</hi> the Dance Compos'd by Mr. <hi>Preiſt.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="24" facs="tcp:170931:69"/>
+                  <head>Baſs. [14]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="25" facs="tcp:170931:70"/>
+               <head>[15] Chacone,</head>
+               <byline>the Dance compos'd by Mr. <hi>Preiſt.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="26" facs="tcp:170931:71"/>
+                  <head>Baſs. [15]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="27" facs="tcp:170931:72"/>
+               <head>[16]</head>
+               <byline>An Entry by the late Mr. <hi>Henry Purcell,</hi> the Dance compos'd by Mr. <hi>Joſias Preiſt.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="28" facs="tcp:170931:73"/>
+                  <head>Baſs. [16]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="29" facs="tcp:170931:74"/>
+               <head>[17]</head>
+               <byline>An Entry by Mr. <hi>Leveridge.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="30" facs="tcp:170931:75"/>
+                  <head>Baſs. [17]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="31" facs="tcp:170931:76"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[18] An Entry of Nations in <hi>Europe's Revils,</hi>
+                  </head>
+                  <byline>Tunes by Mr. <hi>Eccles,</hi> the Dances by <hi>Tho. Bray.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[19] The ſecond a <hi>Dutch-Man</hi> and his Wife.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="32" facs="tcp:170931:77"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[18]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[19]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:170931:78"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[20] The third a <hi>French-Man</hi> and his Wife.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[21] The fourth an <hi>Engliſh-Man</hi> and his Wife.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="34" facs="tcp:170931:79"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[20]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[21]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="35" facs="tcp:170931:80"/>
+               <head>[22] An Entry of Clownes</head>
+               <byline>by Mr. <hi>Eccles,</hi> the Dance compos'd by <hi>Tho. Bray.</hi>
+               </byline>
+               <div type="part">
+                  <head>Treble.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="36" facs="tcp:170931:81"/>
+                  <head>Baſs. [22]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:170931:82"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[23] Paſpe by the late Mr. <hi>Hen. Purcell,</hi> the Dance Compos'd by <hi>Tho. Bray.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[24] Minuett.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:170931:83"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[23]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[24]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="39" facs="tcp:170931:84"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[25] Minuett.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[26] Round O.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Firſt Strain again. End with the firſt Strain.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="40" facs="tcp:170931:85"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[25]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[26]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>Firſt Strain again. End with the firſt Strain.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:170931:86"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[27] <hi>French</hi> Paſpe.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[28] <hi>Eſpagnolett.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:170931:87"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[27]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[28]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="43" facs="tcp:170931:88"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[29] Minuett.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[30] Minuett.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:170931:89"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[29]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[30]</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="45" facs="tcp:170931:90"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[31] Minuett</head>
+                  <byline>by Mr <hi>Tho. Preiſt.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[32] Minuett</head>
+                  <byline>by Mr. <hi>Tho. Preiſt.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[33] Rigodoon</head>
+                  <byline>by Mr. <hi>Tho. Preiſt.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="46" facs="tcp:170931:91"/>
+               <head>Baſs.</head>
+               <div type="song">
+                  <head>[31] Minuett</head>
+                  <byline>by Mr <hi>Tho. Preiſt.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[32] Minuett</head>
+                  <byline>by Mr. <hi>Tho. Preiſt.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[33] Rigodoon</head>
+                  <byline>by Mr. <hi>Tho. Preiſt.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="47" facs="tcp:170931:92"/>
+               <head>Treble.</head>
+               <div type="song">
+                  <head>[34] Corant.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[35] Minuett.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>[36] Rigodoon.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+                  <gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="50" facs="tcp:170931:93"/>
+               <head>[38]</head>
+               <byline>A New <hi>Canary</hi> Tune and Dance compos'd by M. <hi>Lane.</hi>
+               </byline>
+               <div type="parts">
+                  <head>Treble and Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="song">
+               <pb n="51" facs="tcp:170931:94"/>
+               <head>[39]</head>
+               <byline>By Mr. <hi>Tho. Preiſt.</hi>
+               </byline>
+               <div type="parts">
+                  <head>Treble and Baſs.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
